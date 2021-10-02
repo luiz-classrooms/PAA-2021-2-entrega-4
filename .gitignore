@@ -1,0 +1,14 @@
+*.tex#
+*.log
+/lista de exercícios 1/_region_.tex
+/lista de exercícios 1/auto/
+*.aux
+*.out
+*.gz
+/lista de exercícios 1/lista.tex~
+/lista de exercicios 2/_region_.tex
+/lista de exercicios 2/auto/
+/lista de exercicios 2/lista.tex~
+/lista de exercicios 3/_region_.tex
+/lista de exercicios 3/auto/
+/lista de exercicios 3/lista.tex~
